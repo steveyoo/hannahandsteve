@@ -46,14 +46,14 @@ a:hover {
 }
 
 .title-hero {
-    background-image: url(https://steveyoo.github.io/hannahandsteve/hs01.jpg);
+    background-image: url(https://steveyoo.github.io/hannahandsteve/assets/images/hs01.jpg);
     background-size: cover;
     background-position: center;
     min-height: 300px;
 }
 
 .footer-hero {
-    background-image: url(https://steveyoo.github.io/hannahandsteve/hs02.jpg);
+    background-image: url(https://steveyoo.github.io/hannahandsteve/assets/images/hs02.jpg);
     background-size: cover;
     background-position: center;
     min-height: 300px;
