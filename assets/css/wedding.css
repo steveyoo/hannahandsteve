@@ -1,0 +1,68 @@
+.body {
+    background-color: #FCFCFC
+}
+
+.name-header {
+    line-height: 1;
+    /* border-bottom: 1px solid #e5e5e5; */
+}
+
+.name-title {
+    color: #141414;
+    font-family: 'Cardo', serif;
+    font-size: 42px;
+}
+
+.small-montserrat {
+    font-family: 'Montserrat', sans-serf;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2.3px;
+    font-size: 12px;
+    color: #141414;
+}
+
+
+
+a:hover {
+    color: #141414;
+}
+
+.mid-section {
+    background-color: white;
+}
+
+.wedding-info-section{
+    border-top: 1px solid #cfcfcf
+}
+
+.medium-montserrat {
+    font-family: 'Montserrat', sans-serf;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2.3px;
+    font-size: 16px;
+    color: #141414;
+}
+
+.title-hero {
+    background-image: url(https://steveyoo.github.io/hannahandsteve/hs01.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+}
+
+.footer-hero {
+    background-image: url(https://steveyoo.github.io/hannahandsteve/hs02.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+}
+
+@media (min-width: 768px){
+    .jumbotron{
+        min-height: 700px;
+    }
+}
